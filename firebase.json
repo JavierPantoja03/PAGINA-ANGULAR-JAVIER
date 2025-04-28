@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/pensamiento-c",
+    "public": "dist/pensamiento-c/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
